@@ -167,7 +167,7 @@ def generate_pythagorean_incircles(limit_m):
                     print(f"{m:<3} | {n:<3} | {triple_str:<15} | {r_num:<8} | {area_circle:<12}")
 
 # Execute verification for m generators up to 6
-generate_pythagorean_incircles(6)```
+generate_pythagorean_incircles(6)'''
 
 
 
