@@ -169,7 +169,7 @@ def generate_pythagorean_incircles(limit_m):
 # Execute verification for m generators up to 6
 generate_pythagorean_incircles(6)
 
-### Script Output
+## Script Output
 
 m   | n   | Triple (a,b,c)  | Inradius | Circle Area 
 ----------------------------------------------------
